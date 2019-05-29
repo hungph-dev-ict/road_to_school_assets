@@ -1,0 +1,18 @@
+{
+  "name": "r2s_assets",
+  "version": "1.0.1",
+  "authors": [
+    "Hung Pham Hoang <hungph.dev.ict@gmail.com>"
+  ],
+  "description": "Road To School Assets for Graduation Project",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/hungph-dev-ict/road_to_school_assets.git",
+  "ignore": [
+    "README.md"
+  ]
+}
+ 
